@@ -1,0 +1,43 @@
+---
+title: "About"
+image: https://avatars.githubusercontent.com/u/21018714?s=400&u=b47cb5eb401714a0e38aa8d32ec7031e5c30e346&v=4
+about:
+  template: solana
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/aniketmaurya
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/aniketmaurya
+    - icon: github
+      text: Github
+      href: https://github.com/aniketmaurya
+    - icon: youtube
+      text: YouTube
+      href: https://youtube.com/@aiwithaniket
+
+---
+Hi there! I'm Aniket, a **Machine Learning - Software Engineer** with with over 4 years of experience, demonstrating a strong track record in developing and deploying machine learning models to production.
+
+Currently, I'm working on building LLM-powered products and contributing to open source at Lightning AI ⚡️.
+
+
+At Lightning AI, I have been working on on a wide range of AI products and use-cases as well as lead the open-source community.
+Some of my contributions include:
+
+* Designed and developed the flagship image generation product using Stable Diffusion, [Muse](https://lightning.ai/pages/community/tutorial/deploy-diffusion-models/).
+* Increased model serving throughput efficiency by more than *50%* by implementing dynamic batching.
+* Designed and developed *[Chat with PDF](https://lightning.ai/lightning-ai/studios/document-chat-assistant-using-rag)*, a RAG application using Large Language Models (LLMs).
+* Enabled LLM evaluation by integrating Eval-Harness framework and Stanford's HELM with [Lit-GPT](https://github.com/Lightning-AI/lit-gpt).
+
+
+Before joining Lightning AI, I was at [Quinbay](https://www.linkedin.com/company/quinbay/), a startup based in Bangalore, where I built and deployed deep learning models in production for our partner Blibli.com.
+
+* Built and deployed Image Recognition system to block objectionable content, scaled for 10M requests.
+* Reduced the Merchant Onboarding time from 24 hours to 1 second with a real-time ID Card Verification & Autofill System.
+* Introduced a Face Recognition System for fraud detection in the e-commerce wallet, which reduced the manual process by more than 50%.
+
+
+You can find most of my new blogs on LLMs, Distributed Training, and Machine Learning on [Lightning AI's blog](https://lightning.ai/pages/author/aniket-maurya/).
