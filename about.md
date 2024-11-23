@@ -1,43 +1,52 @@
 ---
-title: "About"
-image: https://avatars.githubusercontent.com/u/21018714?s=400&u=b47cb5eb401714a0e38aa8d32ec7031e5c30e346&v=4
-about:
-  template: solana
-  image-shape: round
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://x.com/aniketmaurya
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/aniketmaurya
-    - icon: github
-      text: Github
-      href: https://github.com/aniketmaurya
-    - icon: youtube
-      text: YouTube
-      href: https://youtube.com/@aiwithaniket
-
+layout: about
+title: About
+permalink: /about/
 ---
-Hi there! I'm Aniket, a **Machine Learning - Software Engineer** with with over 4 years of experience, demonstrating a strong track record in developing and deploying machine learning models to production.
 
-Currently, I'm working on building LLM-powered products and contributing to open source at Lightning AI ⚡️.
-
-
-At Lightning AI, I have been working on on a wide range of AI products and use-cases as well as lead the open-source community.
-Some of my contributions include:
-
-* Designed and developed the flagship image generation product using Stable Diffusion, [Muse](https://lightning.ai/pages/community/tutorial/deploy-diffusion-models/).
-* Increased model serving throughput efficiency by more than *50%* by implementing dynamic batching.
-* Designed and developed *[Chat with PDF](https://lightning.ai/lightning-ai/studios/document-chat-assistant-using-rag)*, a RAG application using Large Language Models (LLMs).
-* Enabled LLM evaluation by integrating Eval-Harness framework and Stanford's HELM with [Lit-GPT](https://github.com/Lightning-AI/lit-gpt).
+<img src="{{site.url}}/assets/site_images/rr-gde-badge-circle.png" alt="my-image" width="160" height="160"/>
 
 
-Before joining Lightning AI, I was at [Quinbay](https://www.linkedin.com/company/quinbay/), a startup based in Bangalore, where I built and deployed deep learning models in production for our partner Blibli.com.
+I am a machine learning engineer at PyImageSearch from Kolkata and Google Developer Expert in Machine Learning, India. My areas of interest include computer vsion, deep learning and causal inference.
 
-* Built and deployed Image Recognition system to block objectionable content, scaled for 10M requests.
-* Reduced the Merchant Onboarding time from 24 hours to 1 second with a real-time ID Card Verification & Autofill System.
-* Introduced a Face Recognition System for fraud detection in the e-commerce wallet, which reduced the manual process by more than 50%.
+I am also a committed visual designer, passionate about visual storytelling. My designs and blogs related to it can be found [here.](https://www.ritwikraha.com/)
+
+When I am not working, my alter ego takes over and makes me an avid bibliophile and a movie buff.
 
 
-You can find most of my new blogs on LLMs, Distributed Training, and Machine Learning on [Lightning AI's blog](https://lightning.ai/pages/author/aniket-maurya/).
+### Talks
+* [AI Planet - LLM Bootcamp](https://www.youtube.com/live/Wef1-D0CoAU?si=mTRSRzXcglpu32os)
+* [ML Paper Reading Club Coimbatore - ResNets](https://youtu.be/C8UqTtyOY4g?si=jptrJSuWEmeCmNG7)
+* [Keras Community Day Kolkata - Keras Philosophy](https://www.youtube.com/watch?v=mU4Z9bs0Bxc)
+* [Keras Community Day Durg - Keras Philosophy](https://www.youtube.com/watch?v=KinLN4lA6Bg&t=13112s)
+* [Keras - The LEGO of Framework](https://www.youtube.com/watch?v=YkIW0aCExo8)
+* [Decoding DETR - TFUG Mumbai](https://www.youtube.com/watch?v=p26Ax6en0_c)
+* [A Guide to ML Workflows with JAX - TFUG Kolkata](https://www.youtube.com/watch?v=tur1P-HWdjs)
+* [Learning JAX in 2023 - JAX's Power Tools](https://www.youtube.com/watch?v=NNsYtagZocw)
+* [Introduction to Neural Radiance Fields - NYTFUG](https://www.youtube.com/watch?v=U2XS7SxOy2s&list=PLT3sJRyVaw-nP-t9F0yJe3wwklbzLNoGP&index=5)
+* [A Deep Dive into Transformers - PyImageSearch](https://youtube.com/live/FJAJKPRHZUg?feature=share)
+* [Neural Machine Translation - PyImageSearch](https://youtube.com/live/BS248CrEADM?feature=share)
+* [Introduction to RNNs - PyImageSearch](https://youtube.com/live/lAIA7l0_cf8?feature=share)
+* [Enhancing Image Resolution with GANs - PyImageSearch](https://youtube.com/live/Ottd3jBtf8Y?feature=share)
+* [OpenCV and Deep Learning Tutorial - PyImageSearch](https://youtube.com/live/xZgOJL4txRw?feature=share)
+* [Introduction to Deep Learning - PyImageSearch](https://youtube.com/live/_B3Ty8DuvSk?feature=share)
+* [Image Fusion with WOA-PCNN - ICCE 2020](https://youtu.be/vnapE3BHq04?list=PLT3sJRyVaw-nP-t9F0yJe3wwklbzLNoGP)
+* [Causality Analysis of Emotional States from EEG Response - ICCE 2020](https://youtu.be/Gp4SF-CkYeo?list=PLT3sJRyVaw-nP-t9F0yJe3wwklbzLNoGP)
+* [Intro to ML with DSC NSEC](https://youtu.be/A1CcHAiqsww?list=PLT3sJRyVaw-nP-t9F0yJe3wwklbzLNoGP)
+
+
+### Education 
+
+Some of the formal and *slightly* informal education that I have recieved.
+
+* Graduation - B.Tech Electronics and Instrumentation, Netaji Subhash Engg. College 2016-2020
+* High School - Sri Aurobindo Institute of Education, 2014- 2016
+* School - Sri Aurbindo Institte of Education, 2009-2014
+
+### Certifications
+
+* [Fundamentals of Digital Image & Video Processing -Coursera](https://www.coursera.org/account/accomplishments/certificate/RMZ7EWPBUZLP)
+* [Biomedical Image Analysis in Python-DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/1dbf84d389af93cfe2f6d3c2f0f41ceae204df5b)
+* [Convolutional Neural Networks for Image Processing-DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/628ed8b9e92333de2eb3d48b4e617b56a58873b9)
+* [Deep Learning in Python-DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/e2590e279461909919f7f19a7ae144dfd5eaa580)
+
