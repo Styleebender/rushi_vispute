@@ -7,7 +7,7 @@ permalink: /about/
 <img src="{{site.url}}/assets/site_images/rr-gde-badge-circle.png" alt="my-image" width="160" height="160"/>
 
 
-I am a machine learning engineer at PyImageSearch from Kolkata and Google Developer Expert in Machine Learning, India. My areas of interest include computer vsion, deep learning and causal inference.
+I am a AI / ML engineer at Infosys from Pune. My areas of interest include Gen AI, ML, NLP, deep learning, Agents, workflows, chatbots and casual interface.
 
 I am also a committed visual designer, passionate about visual storytelling. My designs and blogs related to it can be found [here.](https://www.ritwikraha.com/)
 
@@ -39,14 +39,11 @@ When I am not working, my alter ego takes over and makes me an avid bibliophile 
 
 Some of the formal and *slightly* informal education that I have recieved.
 
-* Graduation - B.Tech Electronics and Instrumentation, Netaji Subhash Engg. College 2016-2020
-* High School - Sri Aurobindo Institute of Education, 2014- 2016
-* School - Sri Aurbindo Institte of Education, 2009-2014
+* Graduation - B.Tech Computer Science, Sinhgad Academy of Engg. College 2017-2020
 
-### Certifications
-
+<!-- ### Certifications
 * [Fundamentals of Digital Image & Video Processing -Coursera](https://www.coursera.org/account/accomplishments/certificate/RMZ7EWPBUZLP)
 * [Biomedical Image Analysis in Python-DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/1dbf84d389af93cfe2f6d3c2f0f41ceae204df5b)
 * [Convolutional Neural Networks for Image Processing-DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/628ed8b9e92333de2eb3d48b4e617b56a58873b9)
-* [Deep Learning in Python-DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/e2590e279461909919f7f19a7ae144dfd5eaa580)
+* [Deep Learning in Python-DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/e2590e279461909919f7f19a7ae144dfd5eaa580) -->
 
