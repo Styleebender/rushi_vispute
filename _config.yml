@@ -7,14 +7,14 @@ urls:
     - text: About
       url: /about
     # - text: Resume
-      # url: /assets/Ritwik_Resume_2.pdf
+      # url: /assets/rushi_Resume.pdf
 
 title: Portfolio
 email: rushi.vispute29@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my portfolio site.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ritwikraha.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://styleebender.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: whereisrishi_
 github_username:  Styleebender
 
@@ -29,7 +29,7 @@ plugins:
   - jekyll-remote-theme 
 
 disqus: true
-disqus_shortname: 'ritwikraha-github-io'
+disqus_shortname: 'rushivispute-github-io'
 
 ---
 layout: default
