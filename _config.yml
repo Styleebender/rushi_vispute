@@ -1,9 +1,9 @@
 # For the nav bar
 urls:
-    - text: Posts
-      url: /posts
-    - text: Research
-      url: /research
+    # - text: Posts
+    #   url: /posts
+    # - text: Research
+    #   url: /research
     - text: About
       url: /about
     # - text: Resume
