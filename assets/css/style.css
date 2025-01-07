@@ -1417,7 +1417,7 @@ a.toc-link {
         padding: 0;
         margin: 0;
         line-height: 5.5em;
-        background: #fff;
+        background: #1c1c1c;
     }
     .navbar-mobile .container .navbar-header {
         display: flex;
@@ -1477,7 +1477,7 @@ a.toc-link {
     }
     .navbar-mobile .container .menu {
         text-align: center;
-        background: #fff;
+        background: #1c1c1c;
         border-top: 1px solid #000;
         padding-top: 1em;
         padding-bottom: 1em;
